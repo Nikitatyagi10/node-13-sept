@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Georgette",
+        "last_name": "Donald",
+        "email": "gdonald0@dagondesign.com",
+        "gender": "Female",
+        "ip_address": "223.25.185.102"
+    },
+    {
+        "id": 2,
+        "first_name": "Merill",
+        "last_name": "Swarbrigg",
+        "email": "mswarbrigg1@si.edu",
+        "gender": "Agender",
+        "ip_address": "192.30.151.228"
+    },
+    {
+        "id": 3,
+        "first_name": "Matilda",
+        "last_name": "Phalp",
+        "email": "mphalp2@china.com.cn",
+        "gender": "Female",
+        "ip_address": "77.26.105.100"
+    },
+    {
+        "id": 4,
+        "first_name": "Udale",
+        "last_name": "Fleisch",
+        "email": "ufleisch3@oaic.gov.au",
+        "gender": "Male",
+        "ip_address": "102.75.223.161"
+    },
+    {
+        "id": 5,
+        "first_name": "Carmen",
+        "last_name": "Aspinal",
+        "email": "caspinal4@tripadvisor.com",
+        "gender": "Female",
+        "ip_address": "220.81.49.16"
+    },
+    {
+        "id": 6,
+        "first_name": "Cayla",
+        "last_name": "Kennifick",
+        "email": "ckennifick5@upenn.edu",
+        "gender": "Female",
+        "ip_address": "36.204.46.214"
+    },
+    {
+        "id": 7,
+        "first_name": "Christy",
+        "last_name": "Chicotti",
+        "email": "cchicotti6@dmoz.org",
+        "gender": "Male",
+        "ip_address": "230.14.240.3"
+    },
+    {
+        "id": 8,
+        "first_name": "Kylila",
+        "last_name": "Berndtsson",
+        "email": "kberndtsson7@ovh.net",
+        "gender": "Female",
+        "ip_address": "109.63.154.222"
+    },
+    {
+        "id": 9,
+        "first_name": "Olivette",
+        "last_name": "Burehill",
+        "email": "oburehill8@naver.com",
+        "gender": "Female",
+        "ip_address": "235.215.145.96"
+    },
+    {
+        "id": 10,
+        "first_name": "Teodorico",
+        "last_name": "Skelcher",
+        "email": "tskelcher9@wikimedia.org",
+        "gender": "Male",
+        "ip_address": "127.154.29.171"
+    }
+]
